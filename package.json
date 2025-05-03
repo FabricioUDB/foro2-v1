@@ -1,0 +1,36 @@
+{
+  "name": "foro2-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.config.js",
+  "scripts": {
+    "web": "webpack serve --config webpack.config.js --mode development",
+    "build:web": "webpack --config webpack.config.js --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    
+    "firebase": "^11.6.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-native": "^0.79.2",
+    "react-native-linear-gradient": "^2.8.3",
+    
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-web": "^0.20.0"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.27.1",
+    "babel-loader": "^10.0.0",
+    "babel-plugin-module-resolver": "^5.0.2",
+    "html-webpack-plugin": "^5.6.3",
+    "metro-react-native-babel-preset": "^0.77.0",
+    "webpack": "^5.99.7",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.1"
+  }
+}
