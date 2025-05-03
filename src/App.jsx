@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { SafeAreaView, StatusBar, Platform } from 'react-native';
-import LoginScreen from './screens/LoginScreen';
+import LoginScreen from './screens/LoginScreen.jsx';
 
 export default function App() {
   return (
