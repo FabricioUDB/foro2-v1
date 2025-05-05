@@ -1,6 +1,10 @@
 # Foro2-v1
  DPS UDB 2025
 
+Video explicativo de la aplicativo: 
+
+https://drive.google.com/file/d/1sMOn4RD4t4OIZNcUwEkW7D_1CgthCWCj/view
+
 **Login Screen con React Native Web y Firebase Auth**
 
 Este proyecto proporciona:
@@ -37,6 +41,7 @@ En VS Code, puedes crear `.vscode/launch.json` para debug React Native Web:
       "name": "Debug Web",
       "type": "chrome",
       "request": "launch",
+
       "url": "http://localhost:8080",
       "webRoot": "${workspaceFolder}"
     }
