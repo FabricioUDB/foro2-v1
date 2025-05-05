@@ -1,6 +1,9 @@
 # Foro2-v1
  DPS UDB 2025
 
+Video explicativo de la aplicacion: 
+https://drive.google.com/file/d/1sMOn4RD4t4OIZNcUwEkW7D_1CgthCWCj/view?usp=drive_link
+
 **Login Screen con React Native Web y Firebase Auth**
 
 Este proyecto proporciona:
